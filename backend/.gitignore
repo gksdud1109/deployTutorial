@@ -43,3 +43,4 @@ out/
 db_dev.mv.db
 db_dev.mv.trace
 src/main/resources/application-secret.yml
+application-secret.yml.default
