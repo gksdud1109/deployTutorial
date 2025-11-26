@@ -23,6 +23,9 @@ spring:
     driver-class-name: org.h2.Driver
     hikari:
       auto-commit: false
+  data:
+    redis:
+      port: 36379
   jpa:
     hibernate:
       ddl-auto: update
